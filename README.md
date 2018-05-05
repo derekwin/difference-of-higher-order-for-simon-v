@@ -10,3 +10,5 @@
 利用python实现
 
 代码质量有限，谨慎参考
+
+论文内容移步：http://blog.seclee.com/2018/04/14/fen-zu-mi-ma/
